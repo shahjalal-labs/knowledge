@@ -6,6 +6,6 @@
 
 ## [yt link](https://www.youtube.com/watch?v=Ggx2vgsdE54)
 
-## [ github pdf link][https://github.com/shahjalal-labs/knowledge/blob/main/fahim_abdullah/self_control/self_control.pdf]
+## [github pdf link][https://github.com/shahjalal-labs/knowledge/blob/main/fahim_abdullah/self_control/self_control.pdf]
 
-[website digital download link][https://learn.fahimabdullah.com/student/digital-downloads/7-powerful-techniques-to-control-stress-immediately]
+## [website digital download link][https://learn.fahimabdullah.com/student/digital-downloads/7-powerful-techniques-to-control-stress-immediately]
