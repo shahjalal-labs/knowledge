@@ -16,8 +16,6 @@
 
 ## [yt link](https://www.youtube.com/watch?v=GweQZhY9FHE)
 
-## [github pdf link][https://github.com/shahjalal-labs/knowledge/blob/main/fahim_abdullah/self_control/self_control.pdf]
-
-## [website digital download link][https://learn.fahimabdullah.com/student/digital-downloads/7-powerful-techniques-to-control-stress-immediately]
+## [github pdf link][https://github.com/shahjalal-labs/knowledge/blob/main/fahim_abdullah/motivation/4-Questions-Self-Assessment-Worksheet.pdf]
 
 ![motivation](motivation.png)
