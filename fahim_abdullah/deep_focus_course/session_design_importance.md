@@ -9,7 +9,7 @@
 1. ,,o=O,ti,r,e,d(atared 5)
 2. ,,ri,e,b,no,c(riebnok 5)
 
-# 1. Explanation ,,o=O,ti,r,e,d(atared 5)
+# 1. ,,o=O,ti,r,e,d(atared 5) Explanation
 
 - `1.1: ,,Outcome=Before the session must set clear outcome, not generalized outcome rather specific time bound target`
 - `1.2: ,,TIme block= must use ,,TIme block session as like pomodoro technique. only focus to the specific task in this block. no way focus can be switched during this time block`
@@ -17,7 +17,7 @@
 - `1.4: ,,Environment= keep an ,,Enviroment which can extract best output. conciously well organized session envrionment`
 - `1.5: ,,Distraction = ,,Distraction free session. keep everything away which can distract`
 
-# 2. Explanation ,,ri,e,b,no,c(riebnok 5)
+# 2. ,,ri,e,b,no,c(riebnok 5) Explanation
 
 - `2.1: ,,RItual= keep session activation ,,RItual. every most successful person has great activation ritual`
 - `2.2: ,,Energy management= ensure session period ,,energy sustaining. during session we need energetic physically, mentally bolded`
