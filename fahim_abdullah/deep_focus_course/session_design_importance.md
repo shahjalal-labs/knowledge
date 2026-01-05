@@ -26,5 +26,7 @@
 - `2.5: ,,Closing= need to learn how to ,,Close the session. we must build a best closing mechanism of the session. so that we can sustain the learning long time. and reserve everything from the session`
 
 [chatgpt explain: very important ](https://chatgpt.com/share/695bc6b0-812c-800c-90bd-0e605d819ef6)
+<br />
+
 [paid course source](https://learn.fahimabdullah.com/student/courses/deep-focus-study-work-session-protocol/lessons/%E0%A6%B8%E0%A7%87%E0%A6%B6%E0%A6%A8-%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%80-%E0%A6%A6%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A7%8B%E0%A6%9C%E0%A6%BE-%E0%A6%AC%E0%A6%B8%E0%A7%87-%E0%A6%97%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%87-%E0%A6%A4%E0%A7%8B-%E0%A6%B9%E0%A6%AF%E0%A6%BC)
 ![session_desing_importance](session_desing_importance.png)
