@@ -20,10 +20,14 @@
 4. ,,Immediate feedback
 5. ,,Deep concentration
 6. ,,Loss of self-consciousness= attention is so high that only the session and it's task is the whole matter nothine else
-7. ,,Altered sense of time
-8. ,,Self-rewarding experience
+7. ,,Altered sense of time = forget time, at this period we have no sense of time. time goes very fast
+8. ,,Self-rewarding experience= evaluate our self not the result we get, instead only how many times we can go flow state. reward our self with the frequency of flow state going not by it's result.
 
 #### Deep work Book learning
 
 It mainly focuses how people can frequently go flow state
 Explain how feedback can help to go flow state
+
+[paid course source](https://iframe.mediadelivery.net/embed/421524/7c8d62de-3e89-4154-93aa-7639fc232bf9?token=8272144a3ba2eed49c280197cc8f58edfbe6fd1d10588733e2b8992cedf7ee37&expires=1767625946&autoplay=true&preload=false&loop=false&muted=false&responsive=true)
+
+![happiness_satisfaction_and_deep_focus_relation](happiness_satisfaction_and_deep_focus_relation.png)
