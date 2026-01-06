@@ -35,22 +35,29 @@
 
 > 4.1: `,,CHOOse a deep work protocol= from 3 deep work styles choose one`
 
-> 4.2 `,,Embrace boredom`
-> 4.3 `,,Disconnect`
-> 4.4 `,,Shallow: Drain the Shallows ` ```
+> 4.2 `,,Embrace boredom `
+
+> 4.3 `,,Disconnect = disconnect from social media. use only a specific allocated time for important social media usage`
+
+> 4.4 `,,Shallow: Drain the Shallows `
 > This rule is about minimizing the logistical "busy work" that feels productive but doesn't actually create value (like endless emails, scheduling meetings, or formatting spreadsheets).
 
-How to "Drain the Shallows":
+> `how to "drain the shallows":
+`
 
-Schedule every minute of your day: Use "time-blocking" so you are intentional about what you are doing.
+- Schedule every minute of your day: Use "time-blocking" so you are intentional about what you are doing.
 
-Quantify the "depth" of your tasks: Ask yourself: "How many months would it take a smart college grad with no specialized training to do this task?" If the answer is "a few weeks," it’s shallow work.
+* Quantify the "depth" of your tasks: Ask yourself: "How many months would it take a smart college grad with no specialized training to do this task?" If the answer is "a few weeks," it’s shallow work.
 
-Set a "shallow work budget": Decide what percentage of your day is allowed to be shallow (e.g., only 20%).
+* Set a "shallow work budget": Decide what percentage of your day is allowed to be shallow (e.g., only 20%).
 
-Become harder to reach: Use "sender filters" on your email so people only message you if it's truly necessary.
+* Become harder to reach: Use "sender filters" on your email so people only message you if it's truly necessary.
 
-## `
+> [chatgpt explain: very important](https://chatgpt.com/share/695bdd63-52c4-800c-84b1-969a1567a47c)
+
+ <br />
+
+> [paid course source](https://learn.fahimabdullah.com/student/courses/deep-focus-study-work-session-protocol/lessons/ai-%E0%A6%8F%E0%A6%B0-%E0%A6%AF%E0%A7%81%E0%A6%97%E0%A7%87%E0%A6%93-%E0%A6%AF%E0%A6%BE%E0%A6%B0%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BF%E0%A6%95-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%AC%E0%A7%87-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%B8%E0%A6%AB%E0%A6%B2-%E0%A6%B9%E0%A6%AC%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BE-%E0%A6%B8%E0%A7%87%E0%A6%B6%E0%A6%A8-%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%87-%E0%A6%86%E0%A6%97%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%95%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%81-%E0%A6%95%E0%A7%87%E0%A6%A8)
 
 ![ai_survival](ai_survival.png)
 
