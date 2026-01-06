@@ -53,7 +53,7 @@
 
 * Become harder to reach: Use "sender filters" on your email so people only message you if it's truly necessary.
 
-> [chatgpt explain: very important](https://chatgpt.com/share/695bdd63-52c4-800c-84b1-969a1567a47c)
+> [chatgpt explain: very important](https://chatgpt.com/share/695d30aa-b878-800c-ac57-eda8235278e9)
 
  <br />
 
