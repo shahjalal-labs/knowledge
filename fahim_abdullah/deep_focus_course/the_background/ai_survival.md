@@ -29,7 +29,7 @@
 
 ---
 
-#### ex: 4. `,,choo,e,d,s(chueds)`
+#### ex: 4. `,,choo,e,d,s(chueds 4)`
 
 ##### how can we master the quality of ,,mep
 
@@ -52,6 +52,8 @@
 * Set a "shallow work budget": Decide what percentage of your day is allowed to be shallow (e.g., only 20%).
 
 * Become harder to reach: Use "sender filters" on your email so people only message you if it's truly necessary.
+
+---
 
 > [chatgpt explain: very important](https://chatgpt.com/share/695d30aa-b878-800c-ac57-eda8235278e9)
 
