@@ -4,6 +4,8 @@
 
 > 2. `,,ti,m,bi,j(tambaj)`
 
+> 3. `,,S,me,f,d, fra,li,w(imefd, felao)`
+
 ---
 
 #### ex: 1. `,,ti,s,e,r,s(taiyers 5)`
@@ -18,7 +20,9 @@
 
 > 1.5: `,,pSyche/mind: controlling the ,pSyche/mind`
 
-## [taiyers source](https://learn.fahimabdullah.com/student/courses/deep-focus-study-work-session-protocol/lessons/%E0%A6%AF%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%81%E0%A6%9A%E0%A6%9F%E0%A6%BE-%E0%A6%9C%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%AF%E0%A6%A5%E0%A6%BE%E0%A6%AF%E0%A6%A5-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A6%A8%E0%A7%87-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BE-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AB%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F-%E0%A6%AA%E0%A6%A1%E0%A6%BC%E0%A6%BE%E0%A6%B6%E0%A7%81%E0%A6%A8%E0%A6%BE-%E0%A6%AC%E0%A6%BE-%E0%A6%95%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%87%E0%A6%B6%E0%A6%A8-%E0%A6%A4%E0%A7%88%E0%A6%B0%E0%A6%BF-%E0%A6%B9%E0%A6%AF%E0%A6%BC)
+[taiyers source](https://learn.fahimabdullah.com/student/courses/deep-focus-study-work-session-protocol/lessons/%E0%A6%AF%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%81%E0%A6%9A%E0%A6%9F%E0%A6%BE-%E0%A6%9C%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%AF%E0%A6%A5%E0%A6%BE%E0%A6%AF%E0%A6%A5-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A6%A8%E0%A7%87-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BE-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AB%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F-%E0%A6%AA%E0%A6%A1%E0%A6%BC%E0%A6%BE%E0%A6%B6%E0%A7%81%E0%A6%A8%E0%A6%BE-%E0%A6%AC%E0%A6%BE-%E0%A6%95%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%87%E0%A6%B6%E0%A6%A8-%E0%A6%A4%E0%A7%88%E0%A6%B0%E0%A6%BF-%E0%A6%B9%E0%A6%AF%E0%A6%BC)
+
+---
 
 #### ex: 2. `,,ti,m,bi,j(tambaj 4)`
 
@@ -31,3 +35,19 @@
 > 2.4: `,,Journalistic method: it means whenever get time, define the session with time blocking and with other protocol then deep work`
 
 [tambaj source](https://learn.fahimabdullah.com/student/courses/deep-focus-study-work-session-protocol/lessons/%E0%A6%AF%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%81%E0%A6%9A%E0%A6%9F%E0%A6%BE-%E0%A6%9C%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%AF%E0%A6%A5%E0%A6%BE%E0%A6%AF%E0%A6%A5-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A6%A8%E0%A7%87-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BE-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AB%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F-%E0%A6%AA%E0%A6%A1%E0%A6%BC%E0%A6%BE%E0%A6%B6%E0%A7%81%E0%A6%A8%E0%A6%BE-%E0%A6%AC%E0%A6%BE-%E0%A6%95%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%87%E0%A6%B6%E0%A6%A8-%E0%A6%A4%E0%A7%88%E0%A6%B0%E0%A6%BF-%E0%A6%B9%E0%A6%AF%E0%A6%BC)
+
+#### ex: 3. `,,S,me,f,d, fra,li,w(imefd, felao)`
+
+> 3.1: `,,Space: space is very important. `
+
+> 3.2: `,,Memory: space connects with memory. `
+
+> 3.3: `,,Fixed: fixed time, fixed place connecte memory instantly. whenever we sit the fixed space it will auto force us to deep work`
+
+> 3.4: `,,Distraction`
+
+> 3.5: `,,FRAgrance`
+
+> 3.6: `,,LIght`
+
+> 3.7: `,,Wall facing`
