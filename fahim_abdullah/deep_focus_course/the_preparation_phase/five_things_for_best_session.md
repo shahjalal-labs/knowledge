@@ -16,7 +16,7 @@
 
 > 1.3: `,,Energy management: during session and overall life ,Energy is required. without energy focus can be lost`
 
-> 1.4: `,,Resource: best way manage the resource. resource means what we need to perform the best session and what we are learning or doing`
+> 1.4: `,,Resource: must take all resource before starting the session. otherwise managing resource will distract our mind.`
 
 > 1.5: `,,pSyche/mind: controlling the ,pSyche/mind`
 
@@ -38,16 +38,16 @@
 
 #### ex: 3. `,,S,me,f,d, fra,li,w(imefd, felao)`
 
-> 3.1: `,,Space: space is very important. `
+> 3.1: `,,Space: space is very important for best session. for best space we need to follow the belowed concept`
 
-> 3.2: `,,Memory: space connects with memory. `
+> 3.2: `,,Memory: space connects with ,,Memory. `
 
-> 3.3: `,,Fixed: fixed time, fixed place connecte memory instantly. whenever we sit the fixed space it will auto force us to deep work`
+> 3.3: `,,Fixed: fixed time, fixed space connects with memory instantly. whenever we sit the fixed space it will auto force us to deep work and also only take some fixed instruments which are necessary to that session. unnecessary instruments like phone can ruin the session`
 
-> 3.4: `,,Distraction`
+> 3.4: `,,Distraction: space should be such a place where not a single ,Distraction can come.`
 
-> 3.5: `,,FRAgrance`
+> 3.5: `,,FRAgrance: ,,FRAgrance improves our memory. it help us  to faster memorize. we can do it by using air freshner ator etc`
 
-> 3.6: `,,LIght`
+> 3.6: `,,LIght: well light is important. warm light can improve focus, so many foriegn people use temperature controlling light. if we get time we should study about how warm light can improve productivity`
 
-> 3.7: `,,Wall facing`
+> 3.7: `,,Wall facing: wall facing space means no moving things allowed. something shaking  or moving will distract our mind. wall facing or sky seeing space is fine if no moving things come`
