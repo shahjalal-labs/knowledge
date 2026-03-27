@@ -6,7 +6,7 @@
 
 #### ,, 2. ,,HA,sa,d(hesed) = Relation with ,,HAppiness, ,,SAtisfiction and ,,Deep focus
 
-#### ,, 3. ,,hi,pe,f(hepef) =>
+#### ,, 3. ,,hi,pe,f(hapef) =>
 
 `,,HIgher income people, ,,PLEasure, ,,Flow state=> we think the most happiest persons are the ,,HIgher income group people. but reasearch prooves that higher income group and lower income group people's happiness difference is very low. also we consider pleasure is happiness but it's only a shortime pleasure nothing else. pleasure means eating delicious foods, incur relationship with beautiful girls etc. So which is the real happiness? scientist ans: ,,Flow state. the people who can dive in flow state as much as possible they are the most happiest person`
 

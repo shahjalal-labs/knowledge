@@ -66,3 +66,4 @@
 > I’ve made note. If anyone has a better note-taking system, please suggest. Sharing this as a reference for others who may find it helpful.
 
 [ai survival note](https://github.com/shahjalal-labs/knowledge/blob/main/fahim_abdullah/deep_focus_course/the_background/ai_survival.md)
+
