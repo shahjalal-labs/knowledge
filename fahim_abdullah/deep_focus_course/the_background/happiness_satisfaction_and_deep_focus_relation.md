@@ -34,4 +34,4 @@ Explain how feedback can help to go flow state
 
 > [paid course source](https://iframe.mediadelivery.net/embed/421524/7c8d62de-3e89-4154-93aa-7639fc232bf9?token=8272144a3ba2eed49c280197cc8f58edfbe6fd1d10588733e2b8992cedf7ee37&expires=1767625946&autoplay=true&preload=false&loop=false&muted=false&responsive=true)
 
-![happiness_satisfaction_and_deep_focus_relation](happiness_satisfaction_and_deep_focus_relation.png)
+![happiness_satisfaction_and_deep_focus_relation](happiness_satisfaction_and_deep_focus_relation.png
