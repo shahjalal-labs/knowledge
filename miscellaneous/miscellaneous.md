@@ -15,4 +15,4 @@
 
 > nor, self dev, islami book, business book, ,,e,s(is) english speaking,
 
-,, ,w,c,pho,d,te,p (okfod, tep) =>,Water ,Cup ,Phone ,Desk cleaning ,Telegram check, ,git Pull
+,,w,c,pho,d,te,p (okfod, tep) =>,Water ,Cup ,Phone ,Desk cleaning ,Telegram check, ,git Pull
