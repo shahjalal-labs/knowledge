@@ -16,3 +16,7 @@
 > nor, self dev, islami book, business book, ,,e,s(is) english speaking,
 
 > > ,w,ch(och)=> ,,w,c,pho,d,te,p (okfod, tep),,CHe,pa,r =>,Water ,Cup ,Phone ,Desk cleaning ,Telegram check, ,git Pull, ,CHecking the previous day log in system track, ,Planning the day work, ,Revise previous day learning
+
+#### My work life(which work I did for earning money)
+
+,,w,t,bi,s(otbis)=>,,Waiter in marrriage ceremony, ,,Tuition, ,,Bkash tmo, ,,Sm technonology backend dev
